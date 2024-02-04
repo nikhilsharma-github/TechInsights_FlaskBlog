@@ -1,0 +1,20 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "twitter_url": "https://twitter.com/TechInsights",
+    "facebook_url": "https://facebook.com/TechInsights",
+    "github_url": "https://github.com/TechInsights",
+    "blog_title": "TechInsights",
+    "blog_tagline": "All Tech Updates at a single Spot",
+    "gmail-user": "nikhilsharma23419@gmail.com",
+    "gmail-password": "dsungbkwxkkgwbpg",
+    "about_text": "So, this is all about this blogpost where you can increase your technical knowldegebase with these latest posts, Thankyou.",
+    "no_of_posts": 2,
+    "login_logo": "loginlogo.svg",
+    "admin_user": "nikhil",
+    "admin_password": "learnflaskwithnick",
+    "upload_location": "C:\\Users\\saira\\PycharmProjects\\flask-learning\\static"
+  }
+}
